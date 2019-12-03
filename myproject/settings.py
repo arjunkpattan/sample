@@ -25,7 +25,7 @@ SECRET_KEY = 'k)pt54q($c^jo*=ts=(wj$mn!l$b7)w9(1dsmp_u=))ym+ey@_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangoapparjun.herokuapp.com']
 
 
 # Application definition
